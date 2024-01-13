@@ -1,22 +1,4 @@
-# TainaAmoraCodes
 
--Portugues-
-Bem-vindo ao meu primeiro repositório no GitHub!
-
-Esta é a página inicial que criei como exemplo das várias coisas que estou aprendendo em desenvolvimento web. Estou empolgada em compartilhar meu progresso com você e mostrar algumas das habilidades que adquiri até agora.
-
-Neste projeto, explorei HTML e CSS. Além disso, incluí animações suaves, transições e um formulário de contato funcional. Estou animada para continuar aprendendo e adicionando mais recursos a esta página no futuro.
-
-Este repositório servirá como registro da minha primeira página inicial e também como um espaço para receber feedback construtivo de outros desenvolvedores. Sinta-se à vontade para explorar o código, fazer sugestões e contribuir com melhorias. Adoraria receber seu apoio e aprender com a comunidade do GitHub.
-
-Agradeço por visitar este repositório e espero que você goste do que criei até agora. Fique à vontade para entrar em contato comigo se tiver alguma pergunta ou sugestão.
-
-Divirta-se explorando e obrigado pelo seu apoio!
-
-Atenciosamente,
-Val.
-
--English-
 Welcome to my first repository on GitHub!
 
 This is the homepage I created as an example of the various things I'm learning in web development. I'm excited to share my progress with you and showcase some of the skills I've acquired so far.
